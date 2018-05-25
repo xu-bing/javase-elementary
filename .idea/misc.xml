@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/d14_abstract/pom.xml" />
+        <option value="$PROJECT_DIR$/d21_awt/pom.xml" />
+        <option value="$PROJECT_DIR$/d17_string/pom.xml" />
+        <option value="$PROJECT_DIR$/d18_collection/pom.xml" />
+        <option value="$PROJECT_DIR$/d19-generic-regex/pom.xml" />
+        <option value="$PROJECT_DIR$/d15-polymorphism/pom.xml" />
+        <option value="$PROJECT_DIR$/d16-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/d22-event_listener/pom.xml" />
+        <option value="$PROJECT_DIR$/d23-event/pom.xml" />
+        <option value="$PROJECT_DIR$/d24-swing/pom.xml" />
+        <option value="$PROJECT_DIR$/d25-thread/pom.xml" />
+        <option value="$PROJECT_DIR$/d26-socket/pom.xml" />
+        <option value="$PROJECT_DIR$/d20-io/pom.xml" />
+        <option value="$PROJECT_DIR$/dbug/pom.xml" />
+        <option value="$PROJECT_DIR$/d27-qq/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="jdk0866" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

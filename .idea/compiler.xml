@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="d14_abstract" />
+        <module name="d15-polymorphism" />
+        <module name="d16-exception" />
+        <module name="d17_string" />
+        <module name="d18_collection" />
+        <module name="d19-generic-regex" />
+        <module name="d20-io" />
+        <module name="d21_awt" />
+        <module name="d22-event_listener" />
+        <module name="d23-event" />
+        <module name="d24-swing" />
+        <module name="d25-thread" />
+        <module name="d26-socket" />
+        <module name="d27-qq" />
+        <module name="dbug" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="d14_abstract" target="1.5" />
+      <module name="d15-polymorphism" target="1.5" />
+      <module name="d16-exception" target="1.5" />
+      <module name="d17_string" target="1.5" />
+      <module name="d18_collection" target="1.5" />
+      <module name="d19-generic-regex" target="1.5" />
+      <module name="d20-io" target="1.5" />
+      <module name="d21_awt" target="1.5" />
+      <module name="d22-event_listener" target="1.5" />
+      <module name="d23-event" target="1.5" />
+      <module name="d24-swing" target="1.5" />
+      <module name="d25-thread" target="1.5" />
+      <module name="d26-socket" target="1.5" />
+      <module name="d27-qq" target="1.5" />
+      <module name="dbug" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

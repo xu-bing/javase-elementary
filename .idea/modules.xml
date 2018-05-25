@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/d14_abstract/d14_abstract.iml" filepath="$PROJECT_DIR$/d14_abstract/d14_abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d15-polymorphism/d15-polymorphism.iml" filepath="$PROJECT_DIR$/d15-polymorphism/d15-polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d16-exception/d16-exception.iml" filepath="$PROJECT_DIR$/d16-exception/d16-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d17_string/d17_string.iml" filepath="$PROJECT_DIR$/d17_string/d17_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d18_collection/d18_collection.iml" filepath="$PROJECT_DIR$/d18_collection/d18_collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d19-generic-regex/d19-generic-regex.iml" filepath="$PROJECT_DIR$/d19-generic-regex/d19-generic-regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d20-io/d20-io.iml" filepath="$PROJECT_DIR$/d20-io/d20-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d21_awt/d21_awt.iml" filepath="$PROJECT_DIR$/d21_awt/d21_awt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d22-event_listener/d22-event_listener.iml" filepath="$PROJECT_DIR$/d22-event_listener/d22-event_listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d23-event/d23-event.iml" filepath="$PROJECT_DIR$/d23-event/d23-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d24-swing/d24-swing.iml" filepath="$PROJECT_DIR$/d24-swing/d24-swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d25-thread/d25-thread.iml" filepath="$PROJECT_DIR$/d25-thread/d25-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d26-socket/d26-socket.iml" filepath="$PROJECT_DIR$/d26-socket/d26-socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d27-qq/d27-qq.iml" filepath="$PROJECT_DIR$/d27-qq/d27-qq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbug/dbug.iml" filepath="$PROJECT_DIR$/dbug/dbug.iml" />
+    </modules>
+  </component>
+</project>
