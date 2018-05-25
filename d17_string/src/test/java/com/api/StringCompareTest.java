@@ -5,7 +5,7 @@ import org.junit.Test;
 public class StringCompareTest {
 
     @Test
-    public void testString(){
+    public void testStringCompare(){
         String s1 = "abc";
         String s2 = "abc";
 
