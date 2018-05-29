@@ -3,7 +3,7 @@ public class Person {
     private int age;
     public Person() {
         super();
-        // TODO Auto-generated constructor stub
+
     }
     public Person(String name, int age) {
         super();

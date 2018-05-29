@@ -8,5 +8,18 @@
     <file url="file://$PROJECT_DIR$/d18_collection/src/main/java/com/collection/TestSet.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/d18_collection/src/main/java/com/map/TestMap.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/d18_collection/src/main/java/com/map/TestProperties.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/d21_awt/src/main/java/com/awt/TestBorderLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/d21_awt/src/main/java/com/awt/TestFlowLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/d21_awt/src/main/java/com/awt/TestFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/d22-event_listener/src/main/java/com/event/ChangBackgroundColor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/d22-event_listener/src/main/java/com/event/ChangeBackgroundColorListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/d22-event_listener/src/main/java/com/event/MyActionListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/d22-event_listener/src/main/java/com/event/TestActionListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/d22-event_listener/src/main/java/com/login/LoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/d23-event/src/main/java/awt/TestAwt.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/d23-event/src/main/java/event/TestWindowListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/d24-swing/src/main/java/swing/FriendListFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/d24-swing/src/main/java/swing/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/d24-swing/src/main/java/swing/LoginFrame.java" charset="GBK" />
   </component>
 </project>
